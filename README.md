@@ -7,7 +7,7 @@ I studied what problems can occur in a single machine and a distributed system w
 System Failures - Undo / Redo logging, Checkpointing \
 Concurrency Control - Locking System (shared lock, exclusive lock, update lock), Timestamps, Validation
 
-Lastly, I implemented a blockchain toy project and a simple hyperledger fabric code with Go after understanding their basic concepts. I created a simple bank transfer system using a hyperledger fabric.
+Lastly, I implemented a blockchain toy project and a simple hyperledger fabric code with Go after understanding their basic concepts. I coded a simple bank transfer system using a hyperledger fabric.
 
 ## Project Summary
 
